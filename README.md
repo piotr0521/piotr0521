@@ -1,9 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=36&center=true&vCenter=true&width=1200&height=100&lines=Hi+there!+I'm+Piotr+Barczak.;Experienced+Web+Developer+%7C+9%2B+Years+of+Coding.;Specializing+in+Web+%26+Blockchain+Development.;Explore+my+projects+below.)](https://git.io/typing-svg)
 
-
-![Piotr's GitHub stats](https://github-readme-stats.vercel.app/api?username=piotr0521&show_icons=true&theme=radical)
-![Piotr's GitHub Streak](https://streak-stats.demolab.com?user=piotr0521&theme=radical)
-
 ## 🛠️ Languages & Tools
 
 #### Web3 & Blockchain
